@@ -5,10 +5,10 @@ DISCLAIMER: This project is a Work in Progress.
 Collaborative filtering using SVD.
 
 ## Product order count
-![alt text](https://raw.githubusercontent.com/CasperCLD/watson/master/images/product_order_count.png "Product order count")
+<img src="https://raw.githubusercontent.com/CasperCLD/watson/master/images/product_order_count.png" width="512">
 
 ## User order count
-![alt text](https://raw.githubusercontent.com/CasperCLD/watson/master/images/user_order_count.png "User order count")
+<img src="https://raw.githubusercontent.com/CasperCLD/watson/master/images/user_order_count.png" width="512">
 
 ## Sources
 
