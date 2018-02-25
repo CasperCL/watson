@@ -1,5 +1,6 @@
-# Watson
+# Watson 🔎
 
+Watson is a recommender system that uses Singular Value Decomposition (SVD) to find latent features in history datasets.
 DISCLAIMER: This project is a Work in Progress.
 
 Collaborative filtering using SVD.
