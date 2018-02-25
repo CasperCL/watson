@@ -3,6 +3,23 @@ _DISCLAIMER: This project is a Work in Progress._
 
 Watson is a recommender system that uses Singular Value Decomposition (SVD) to find latent features in historical datasets.
 
+## Get started
+
+```
+python3.6 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+```
+
+The following scripts are available:
+```
+# Generate files
+python generate.py
+
+# Train and Test
+python recommend.py
+```
+
 ## Goals
 
 1. Recommendation for items for a single user based on its buying history
